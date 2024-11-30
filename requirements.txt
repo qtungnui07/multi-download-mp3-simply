@@ -1,0 +1,4 @@
+requests
+yt_dlp
+pyperclip
+keyboard
